@@ -68,7 +68,7 @@ A web application to track the countries visited by different family members.
     nodemon index.js
     ```
 2. Open your browser and navigate to:
-    ```
+    
     http://localhost:2000
     ```
 
