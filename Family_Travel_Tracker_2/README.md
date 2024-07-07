@@ -1,3 +1,4 @@
+
 # Family Travel Tracker
 
 A web application to track the countries visited by different family members.
@@ -20,7 +21,7 @@ A web application to track the countries visited by different family members.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/family-travel-tracker.git
+    git clone https://github.com/Nitya-Kalloli/Family_Travel_Tracker/.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -68,7 +69,7 @@ A web application to track the countries visited by different family members.
     nodemon index.js
     ```
 2. Open your browser and navigate to:
-    ```
+    
     http://localhost:2000
     ```
 
