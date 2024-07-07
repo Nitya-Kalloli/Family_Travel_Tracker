@@ -67,24 +67,12 @@ A web application to track the countries visited by different family members.
 
 1. Start the server:
     nodemon index.js
-    ```
+    
 2. Open your browser and navigate to:
     
     http://localhost:2000
-    ```
+    
 
-## Project Structure
-
-family-travel-tracker/
-│
-├── public/
-│ └── (static files)
-├── views/
-│ ├── index.ejs
-│ ├── new.ejs
-├── index.js
-├── package.json
-└── README.md
 
 ## Routes
 
